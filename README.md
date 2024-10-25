@@ -1,6 +1,7 @@
 # Pretext
 
 This project was a group assignment done for the Programming 2 course, that was built with the help of 2 classmates.
+As we used Github Classroom of this assignment, this repository contains only a copy of the files, but has no commit history.
 # Programming 2 (2023): Interactive Fiction - Template
 
 Build your game on top of the provided framework `Sources/prog2-2023-project/InteractiveFictionFramework`.
